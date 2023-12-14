@@ -1,0 +1,15 @@
+C:\VSCode\rcastro84\Program\bin\Debug\net8.0\Program.exe
+C:\VSCode\rcastro84\Program\bin\Debug\net8.0\Program.deps.json
+C:\VSCode\rcastro84\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\VSCode\rcastro84\Program\bin\Debug\net8.0\Program.dll
+C:\VSCode\rcastro84\Program\bin\Debug\net8.0\Program.pdb
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.AssemblyInfo.cs
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.csproj.CoreCompileInputs.cache
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.sourcelink.json
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.dll
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\refint\Program.dll
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.pdb
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\VSCode\rcastro84\Program\obj\Debug\net8.0\ref\Program.dll
